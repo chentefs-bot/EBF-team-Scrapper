@@ -172,3 +172,4 @@ with tab_resumen:
         "Estado": ["Pendiente Untappd API", "En construccion", "En construccion", "Activo (32 leads)"],
         "Objetivo de venta": ["Vendor spots $5k-$20k", "Boletos $300-$1,500", "Espacio taller + co-promo", "Patrocinios $15k-$500k+"],
     }))
+# updated Tue Jul  7 23:11:31 HMM 2026
